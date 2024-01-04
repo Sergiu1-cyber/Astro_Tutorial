@@ -11,3 +11,16 @@ tags: ["astro", "blogging", "learning in public", "successes"]
 ---
 After a successful first week learning Astro, I decided to try some more. I wrote and imported a small component from memory!
 
+```js
+// javascript
+
+// bloc de cod de test
+const message = "Hello World";
+
+function test(a) {
+    console.log(a);
+}
+
+test(message);
+```
+
